@@ -1,1 +1,1 @@
-Static build of danielmhle.github.io using HTML5 and CSS, built off (Phantom by HTML5 UP)[https://html5up.net/phantom]. Tile images sourced from (Unsplash)[https://unsplash.com]. 
+Static build of danielmhle.github.io using HTML5 and CSS, built off [https://html5up.net/phantom](Phantom by HTML5 UP) (CC3.0). Tile images sourced from [https://unsplash.com](Unsplash). 
